@@ -1,2 +1,3 @@
 # Bachelorarbeit_Code
-gesamter verwendeter code
+
+Hier ist der gesamte in der Bachelorarbeit verwendete Code und alle Notebooks enthalten.
