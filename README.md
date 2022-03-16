@@ -1,3 +1,10 @@
 # Bachelorarbeit_Code
 
-Hier ist der gesamte in der Bachelorarbeit verwendete Code und alle Notebooks enthalten.
+Hier sind alle verwendeten Notebooks enthalten. 
+
+In den Notebooks werden noch 2 andere Repositorys von mir verwendet. Ich weiß nicht wie man die sinnvoll und noch funktionstüchtig in ein Repository zusammenfassen kann, deswegen im Folgenden die links.
+
+-ich habe den Code von DINO verwendet, und leicht für meine Zwecke angepasst (unter https://github.com/Moldazien/BA_DINO.git).
+
+-ich habe außerdem den Code von MAE verwendet, und leicht angepasst, um andere Datensatzformate verwenden zu können. (unter https://github.com/Moldazien/BA_MAE.git)
+
