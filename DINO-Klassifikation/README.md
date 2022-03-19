@@ -1,1 +1,1 @@
-notebooks für die klassifikation mit DINO-Merkmalsvektoren
+Notebooks für die Klassifikation mit DINO-Merkmalsvektoren
