@@ -1,1 +1,1 @@
-Notebooks die sich auf die Verwendung von MAE mit verschiedenen Datensätezn beziehen
+Notebooks die sich auf die Verwendung von MAE mit verschiedenen Datensätzen beziehen
